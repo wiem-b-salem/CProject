@@ -15,17 +15,17 @@ int main()
     if(choix==0)
     {
         printf("Bonjour Admin \n");
-        /*call of function t3 el admin lenna*/
+        /*call of function t3 el authentification admin lenna*/
     }
     else if (choix==1)
     {
         printf("Bonjour parent \n");
-        /*call of funtion ta3 el parent lenna*/
+        /*call of funtion ta3 el authentification parent lenna*/
     }
     else
     {
         printf("Bonjour enseignant \n");
-        /*call of function t3 el prof lenna*/
+        /*call of function t3 el authentification prof lenna*/
     }
 
 }
